@@ -1,0 +1,19 @@
+[
+    {
+        "cliente": "Teo lindo",
+        "edad": 5,
+        "productos": [
+            {
+                "nombre": "Cebolla",
+                "precioUnitario": 15000,
+                "cantidad": 20,
+                "categoria": "verduras"
+            }
+        ],
+        "subtotal": 300000,
+        "descuento": "5%",
+        "montoDescuento": 15000,
+        "totalFinal": 285000,
+        "fecha": "2/22/2025, 8:08:28 PM"
+    }
+]

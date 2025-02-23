@@ -1,0 +1,78 @@
+{
+    "frutas": [
+        {
+            "nombre": "Manzana",
+            "precioUnitario": 2000,
+            "cantidad": 40
+        },
+        {
+            "nombre": "Banana",
+            "precioUnitario": 1000,
+            "cantidad": 60
+        },
+        {
+            "nombre": "Fresa",
+            "precioUnitario": 800,
+            "cantidad": 33
+        },
+        {
+            "nombre": "Uva",
+            "precioUnitario": 500,
+            "cantidad": 20
+        },
+        {
+            "nombre": "Pera",
+            "precioUnitario": 1500,
+            "cantidad": 50
+        }
+    ],
+    "verduras": [
+        {
+            "nombre": "Zanahoria",
+            "precioUnitario": 10000,
+            "cantidad": 11
+        },
+        {
+            "nombre": "Papa",
+            "precioUnitario": 20000,
+            "cantidad": 20
+        },
+        {
+            "nombre": "Cebolla",
+            "precioUnitario": 15000,
+            "cantidad": 20
+        },
+        {
+            "nombre": "Tomate",
+            "precioUnitario": 5000,
+            "cantidad": 4
+        },
+        {
+            "nombre": "Lechuga",
+            "precioUnitario": 5000,
+            "cantidad": 28
+        }
+    ],
+    "lacteos": [
+        {
+            "nombre": "Leche",
+            "precioUnitario": 10000,
+            "cantidad": 16
+        },
+        {
+            "nombre": "Queso",
+            "precioUnitario": 20000,
+            "cantidad": 10
+        },
+        {
+            "nombre": "Yogurt",
+            "precioUnitario": 15000,
+            "cantidad": 23
+        },
+        {
+            "nombre": "Mantequilla",
+            "precioUnitario": 5000,
+            "cantidad": 28
+        }
+    ]
+}

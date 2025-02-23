@@ -1,0 +1,7 @@
+{
+  "type": "module",
+  "dependencies": {
+    "@faker-js/faker": "^9.5.0"
+  }
+}
+
