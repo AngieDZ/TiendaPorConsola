@@ -15,5 +15,39 @@
         "montoDescuento": 15000,
         "totalFinal": 285000,
         "fecha": "2/22/2025, 8:08:28 PM"
+    },
+    {
+        "cliente": "Angie",
+        "edad": 28,
+        "productos": [
+            {
+                "nombre": "Papa",
+                "precioUnitario": 20000,
+                "cantidad": 3,
+                "categoria": "verduras"
+            }
+        ],
+        "subtotal": 60000,
+        "descuento": "10%",
+        "montoDescuento": 6000,
+        "totalFinal": 54000,
+        "fecha": "2/23/2025, 11:59:26 AM"
+    },
+    {
+        "cliente": "Aaaaa",
+        "edad": 61,
+        "productos": [
+            {
+                "nombre": "Mantequilla",
+                "precioUnitario": 5000,
+                "cantidad": 5,
+                "categoria": "lacteos"
+            }
+        ],
+        "subtotal": 25000,
+        "descuento": "15%",
+        "montoDescuento": 3750,
+        "totalFinal": 21250,
+        "fecha": "2/23/2025, 12:01:17 PM"
     }
 ]

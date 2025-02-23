@@ -366,6 +366,7 @@ async function verHistorial() {
 
         console.log('\n --- HISTORIAL DE COMPRAS --- \n');
         historial.forEach((compra, index) => {
+            console.log("-------------------------------\n");
             console.log(`Compra #${index + 1} - ${compra.fecha}`);
             console.log(`Cliente: ${compra.cliente} (Edad: ${compra.edad})`);
             console.log("Productos:");

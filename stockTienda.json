@@ -35,7 +35,7 @@
         {
             "nombre": "Papa",
             "precioUnitario": 20000,
-            "cantidad": 20
+            "cantidad": 17
         },
         {
             "nombre": "Cebolla",
@@ -72,7 +72,7 @@
         {
             "nombre": "Mantequilla",
             "precioUnitario": 5000,
-            "cantidad": 28
+            "cantidad": 23
         }
     ]
 }
